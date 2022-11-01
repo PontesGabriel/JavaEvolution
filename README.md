@@ -1,2 +1,3 @@
-# JavaEvolution
-My evolution with the language Java
+# JavaEvolution 📌
+
+## My public repository about myself evolution in this excellent language ⌨️🛠️
