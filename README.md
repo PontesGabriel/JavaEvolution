@@ -1,3 +1,3 @@
-# JavaEvolution 📌
+# JavaExercices 📌
 
-## My public repository about myself evolution in this excellent language ⌨️🛠️
+## My public repository about my exercices in this excellent language ⌨️🛠️
